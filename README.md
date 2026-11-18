@@ -11,7 +11,7 @@ Este repositorio es mi **índice personal de experimentos con inteligencia artif
 
 | ID | Área | Experimento | Cuaderno | Estado |
 |:--:|---|---|---|---|
-| 001 | Fundamentos | [Perceptrón: puerta lógica AND](01_fundamentos/001_perceptron_and_explicacion_detallada.md) | [Explicación detallada](01_fundamentos/001_perceptron_and_explicacion_detallada.md) · cuaderno `.ipynb` pendiente | Documentado |
+| 001 | Fundamentos | [Perceptrón: puerta lógica AND](01_fundamentos/001_perceptron_and_explicacion_detallada.md) | [Cuaderno](01_fundamentos/001_perceptron_and.ipynb) · [Ejecutar en Colab](https://colab.research.google.com/github/bitschips/laboratorio-inteligencia-artificial/blob/main/01_fundamentos/001_perceptron_and.ipynb) · [Explicación](01_fundamentos/001_perceptron_and_explicacion_detallada.md) | Código comentado disponible |
 | 002 | TensorFlow | `compile()`, `fit()` y `predict()` paso a paso | `02_tensorflow/002_entrenar_y_predecir.ipynb` | Por enlazar |
 | 003 | Visión artificial | Reconocer patrones en imágenes de 4 × 4 píxeles | `03_vision_artificial/003_imagenes_4x4.ipynb` | Por enlazar |
 | 004 | Redes neuronales | Número de neuronas y capas ocultas | `02_tensorflow/004_capas_y_neuronas.ipynb` | Por enlazar |
